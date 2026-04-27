@@ -1,0 +1,7 @@
+x = self.bn1(self.kan1(x))
+        x = self.bn1(self.kan2(x))
+        x = self.bn1(self.kan3(x))
+        x = self.bn1(self.kan4(x))
+        x = self.bn2(self.kan5(x))
+        x = self.kan6(x)
+        x = F.log_softmax(x, dim=1)
