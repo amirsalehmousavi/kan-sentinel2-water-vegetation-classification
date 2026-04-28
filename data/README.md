@@ -40,14 +40,21 @@ To run the models in this repository:
 The final directory structure should be:
 
 data/
+
 ├── test_data/
+
 │   ├── c1_r1.tif
+
 │   ├── c2_r2.tif
+
 │   └── ...
 │
 └── train_validation_data/
+
     ├── c1_r1.tif
+    
     ├── c2_r2.tif
+    
     └── ...
 
 ## Notes
