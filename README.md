@@ -1,18 +1,12 @@
 # Kolmogorov-Arnold Networks for Water and Vegetation Mapping using Sentinel-2
 
----
-
 ![Study Areas](images/Fig1.png)
 
 ## Overview
 
-This repository is associated with the paper:
+This repository is associated with the research paper:
 
-**“Kolmogorov-Arnold Networks for High Accuracy Mapping of Water and Vegetation Using Sentinel-2 Imagery.”**
-
-It provides all code required to reproduce the results.
-
----
+**“A novel-based Kolmogorov-Arnold Networks for high accuracy mapping of water and vegetation: A study of the global main rivers”**
 
 ## Reproducibility
 

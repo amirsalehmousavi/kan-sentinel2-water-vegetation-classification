@@ -6,8 +6,6 @@ https://doi.org/10.5281/zenodo.19817363
 
 ## Dataset Contents
 
-The dataset includes Sentinel-2 imagery and labeled samples for pixel-based classification of water and vegetation across nine major rivers.
-
 The following files contain the raw Sentinel-2 GeoTIFF imagery:
 
 - r1_amazon.zip 
@@ -39,7 +37,9 @@ To run the models in this repository:
 
 The final directory structure should be:
 
-data/
+```data/
+
+├── original/
 
 ├── test_data/
 
@@ -56,8 +56,7 @@ data/
     ├── c1_r1.tif
     
     ├── c2_r2.tif
-    
-    └── ...
+    └── ...```
 
 ## Notes
 
