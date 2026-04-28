@@ -4,7 +4,7 @@ Kolmogorov-Arnold Networks (KAN) for pixel-based water and vegetation classifica
 
 ---
 
-## 📄 Associated Publication
+## Associated Publication
 
 This repository accompanies the manuscript:
 
@@ -14,7 +14,7 @@ The study investigates the performance of Kolmogorov-Arnold Networks (KANs) for 
 
 ---
 
-## 🌍 Study Areas
+## Study Areas
 
 The dataset includes nine major global rivers:
 
@@ -30,13 +30,13 @@ The dataset includes nine major global rivers:
 
 ---
 
-## 🖼️ Study Overview
+## Study Overview
 
 ![Study Areas](images/Fig1.png)
 
 *Figure 1: Research Flowchart*
 
-## 📂 Repository Structure
+## Repository Structure
 
 kan-sentinel2-water-vegetation-classification/
 ├── data/
@@ -49,11 +49,11 @@ kan-sentinel2-water-vegetation-classification/
 
 ---
 
-## 📦 Dataset
+## Dataset
 
 The dataset is publicly available at Zenodo:
 
-👉 https://doi.org/10.5281/zenodo.19817363
+https://doi.org/10.5281/zenodo.19817363
 
 Includes:
 
@@ -65,7 +65,7 @@ See `data/README.md` for details.
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 Clone the repository and install dependencies;  run_kan_mlp_river.ipynb notebook has been composed for reproducing the results. 
 
