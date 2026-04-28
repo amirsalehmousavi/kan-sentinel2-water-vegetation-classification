@@ -71,6 +71,6 @@ Clone the repository and install dependencies;  run_kan_mlp_river.ipynb notebook
 
 ```bash
 git clone https://github.com/amirsalehmousavi/kan-water-vegetation-mapping.git
-cd kan-water-vegetation-mapping''
+cd kan-water-vegetation-mapping
 pip install -r requirements.txt
 
